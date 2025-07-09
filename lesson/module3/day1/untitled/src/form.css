@@ -1,0 +1,13 @@
+form{
+    width: 700px;
+    height: 500px;
+}
+
+.custom-checkbox {
+    width: 20px;
+    height: 20px;
+    accent-color: orange;
+}
+.btn-custom{
+    background-color: orange !important;
+}
